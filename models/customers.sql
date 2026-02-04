@@ -10,6 +10,8 @@ with customers as (
 ),
 
 
+
+
 orders as (
 
     select
